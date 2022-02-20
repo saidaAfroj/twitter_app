@@ -3,6 +3,7 @@ package com.codepath.apps.restclienttemplate
 import android.app.Application
 import android.content.Context
 import androidx.room.Room
+import com.codepath.apps.restclienttemplate.models.Tweet
 import com.codepath.oauth.OAuthBaseClient
 import com.facebook.stetho.Stetho
 
